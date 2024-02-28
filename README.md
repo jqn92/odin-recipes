@@ -2,7 +2,7 @@
 ## Project - Recipes
 In this project, I am going to build a basic recipe website. No CSS will be added for style at this time; I will only be dealing with the basic structure.
 <br>
-The website will consist of a **main index page** (*index.html*) which will have links to a few **recipe pages** (*cupcakes.html*, *tomatoes.html*, *mushrooms.html* and *chiken.html*). 
+The website will consist of a **main index page** (*index.html*) which will have links to a few **recipe pages** (*cupcakes.html*, *tomatoes.html*, *mushrooms.html* and *chicken.html*). 
 <br>
 <br>
 ### Main index page
