@@ -10,3 +10,6 @@ The **main index page** will have a *heading* for the title and the *links* will
 <br>
 ### Recipe pages
 Each **recipe page** will have a *heading*, an *image* of the finished dish, a "Description" *heading* followed by one or two *paragraphs* describing the recipe. Under the description, an "Ingredients" *heading* will be added, followed by an *unordered list* of the ingredients needed for the recipe. Lastly, under the list, there should be a "Steps" *heading*, followed by an *ordered list* of the steps needed for making the dish.
+<br>
+## Project - The Cascade
+For this project, I am going to add CSS to give *some* style to the **main index page** and each of the **recipe pages** (*cupcakes.html*, *tomatoes.html*, *mushrooms.html* and *chicken.html*).
