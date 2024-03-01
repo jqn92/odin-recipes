@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+    color: lightslategray;
+    font-family: Garamond, serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+p {
+    font-style:oblique;
+    font-weight: bold;
+}
